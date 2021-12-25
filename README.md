@@ -1,9 +1,9 @@
 # :rocket: Deep Learning Specialization
-This repository contains all materials, including Labs in the [Deep Learning](https://www.coursera.org/specializations/deep-learning) specialization, provided by DeepLearning.AI on Coursera.
+This repository contains all materials, including Labs in the [Deep Learning](https://www.coursera.org/specializations/deep-learning) specialization, provided by **DeepLearning.AI** on **Coursera**.
 
 ## :file_folder: [1. Neural Networks and Deep Learning](https://github.com/evgenyzorin/Deep-Learning/tree/main/1.%20Neural%20Networks%20and%20Deep%20Learning)
 ### About this Course 
-In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
+In the first course of the **Deep Learning Specialization**, you will study the foundational concept of neural networks and deep learning. 
 
 By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ### Syllabus:
@@ -18,7 +18,7 @@ Analyze the key computations underlying deep learning, then use them to build an
 
 ## :file_folder: [2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/evgenyzorin/Deep-Learning/tree/main/2.%20Improving%20Deep%20Neural%20Networks)
 ### About this Course 
-In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
+In the second course of the **Deep Learning Specialization**, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
 
 By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
 ### Syllabus:
@@ -31,7 +31,7 @@ Explore TensorFlow, a deep learning framework that allows you to build neural ne
 
 ## :file_folder: [3. Structuring Machine Learning Projects](https://github.com/evgenyzorin/Deep-Learning/tree/main/3.%20Structuring%20Machine%20Learning%20Projects)
 ### About this Course 
-In the third course of the Deep Learning Specialization, you will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+In the third course of the **Deep Learning Specialization**, you will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 
 By the end, you will be able to diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 ### Syllabus:
@@ -42,7 +42,7 @@ Develop time-saving error analysis procedures to evaluate the most worthwhile op
 
 ## :file_folder: [4. Convolutional Neural Networks](https://github.com/evgenyzorin/Deep-Learning/tree/main/4.%20Convolutional%20Neural%20Networks)
 ### About this Course 
-In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+In the fourth course of the **Deep Learning Specialization**, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 
 By the end, you will be able to build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data.
 ### Syllabus:
@@ -57,7 +57,7 @@ Explore how CNNs can be applied to multiple fields, including art generation and
 
 ## :file_folder: [5. Sequence Models](https://github.com/evgenyzorin/Deep-Learning/tree/main/5.%20Sequence%20Models)
 ### About this Course 
-In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+In the fifth course of the **Deep Learning Specialization**, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
 By the end, you will be able to build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
 ### Syllabus:
