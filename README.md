@@ -1,5 +1,5 @@
 # :rocket: Deep Learning Specialization
-This repository contains all materials, including Labs in the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning), provided by **DeepLearning.AI** on **Coursera**.
+This repository contains all materials, including Labs in the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by **DeepLearning.AI** on **Coursera**.
 
 ## :file_folder: [1. Neural Networks and Deep Learning](https://github.com/evgenyzorin/Deep-Learning/tree/main/1.%20Neural%20Networks%20and%20Deep%20Learning)
 ### About this Course 
